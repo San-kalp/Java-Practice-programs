@@ -1,0 +1,2 @@
+Space complexity is the amount of memory or space taken by an algo to run 
+The memory required to process the input by an algo helps in finding the space complexity
